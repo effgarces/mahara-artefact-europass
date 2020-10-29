@@ -24,7 +24,7 @@ class PluginBlocktypeMyLanguages extends MaharaCoreBlocktype {
     }
 
     public static function get_css_icon($blocktypename) {
-        return 'commenting';
+        return 'language';
     }
 
     public static function get_categories() {

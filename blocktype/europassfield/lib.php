@@ -24,7 +24,7 @@ class PluginBlocktypeEuropassfield extends MaharaCoreBlocktype {
     }
 
     public static function get_css_icon($blocktypename) {
-        return 'euro';
+        return 'pen';
     }
 
     public static function get_categories() {

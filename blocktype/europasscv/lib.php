@@ -24,7 +24,7 @@ class PluginBlocktypeEuropassCV extends MaharaCoreBlocktype {
     }
 
     public static function get_css_icon($blocktypename) {
-        return 'euro';
+        return 'address-card';
     }
 
     public static function get_categories() {
